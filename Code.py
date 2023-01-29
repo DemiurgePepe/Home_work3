@@ -1,4 +1,4 @@
-Numbers = [4, 2, 8]
+Numbers = [21, 15, 65]
 index = 0
 Max = 0
 Size = len(Numbers)
